@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed error in HTML: using document.getElementById() with an ID containing spaces.  The bug.html file showcases the incorrect approach.  The bugSolution.html file provides the correct solution.
